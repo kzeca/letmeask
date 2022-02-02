@@ -4244,6 +4244,11 @@ eslint-plugin-testing-library@^5.0.1:
   dependencies:
     "@typescript-eslint/experimental-utils" "^5.9.0"
 
+eslint-pre-commit-hook@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/eslint-pre-commit-hook/-/eslint-pre-commit-hook-2.0.7.tgz#842ac4856877a90f0be1764477bbf1acec6bcd3d"
+  integrity sha512-UczFv41W9k6/57Y/TBdhBG5a2zF/s0SL7aFdiaE/qW6gqKSijJF+dySSGFkyHuS7/CSED2J1HJv+rGrxn3peAQ==
+
 eslint-scope@5.1.1, eslint-scope@^5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-5.1.1.tgz#e786e59a66cb92b3f6c1fb0d508aab174848f48c"
